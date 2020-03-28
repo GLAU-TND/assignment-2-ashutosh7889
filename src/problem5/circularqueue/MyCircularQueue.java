@@ -34,4 +34,7 @@ public class MyCircularQueue {
 
     public void traverseQueue() {
     }
+
+    public Node deQueue() {
+    }
 }
