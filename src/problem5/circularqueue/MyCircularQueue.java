@@ -31,4 +31,7 @@ public class MyCircularQueue {
 
     public void enQueue(Node newNode) {
     }
+
+    public void traverseQueue() {
+    }
 }
