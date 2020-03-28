@@ -52,4 +52,10 @@ public class MyBinarySearchTree {
         else
             parent.setRightNode(newNode);
     }
+
+    public int showLeft(TreeNode node, boolean isLeft) {
+
+    }
+
+
 }
