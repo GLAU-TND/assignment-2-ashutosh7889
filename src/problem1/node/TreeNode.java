@@ -10,4 +10,8 @@ public class TreeNode {
     private int data;
     private TreeNode leftNode;
     private TreeNode rightNode;
+
+    public int getData() {
+        return data;
+    }
 }
