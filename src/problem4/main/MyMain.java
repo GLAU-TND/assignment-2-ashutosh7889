@@ -18,5 +18,8 @@ public class MyMain {
         Scanner scan = new Scanner(System.in);
         MyBinarySearchTree bst = new MyBinarySearchTree();
         MyQueue queue = new MyQueue();
+        System.out.println("Enter number of nodes ");
+        int numberOfNodes = scan.nextInt();
+
     }
 }
