@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="052e1789-afd4-48bd-a7b9-8e01eadf37ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problem4/node/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585368349970</updated>
-      <workItem from="1585368354112" duration="10192000" />
+      <workItem from="1585368354112" duration="10458000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit..">
       <created>1585368638531</created>
@@ -381,7 +381,35 @@
       <option name="project" value="LOCAL" />
       <updated>1585380774012</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="add class Node in problem 4....">
+      <created>1585381115535</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1585381115535</updated>
+    </task>
+    <task id="LOCAL-00047" summary="initial commit...">
+      <created>1585381140491</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1585381140491</updated>
+    </task>
+    <task id="LOCAL-00048" summary="add variables data of type int,next of type Node...">
+      <created>1585381215318</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1585381215318</updated>
+    </task>
+    <task id="LOCAL-00049" summary="add getter and setter method for varibales data and next...">
+      <created>1585381266574</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1585381266574</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,10 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add a variable n of type int.." />
-    <MESSAGE value="complete the promble i,e, final commit...." />
-    <MESSAGE value="initial commit..." />
-    <MESSAGE value="add main method.." />
     <MESSAGE value="add object scan of Scanner class..." />
     <MESSAGE value="add object bst of MyBinarySearchTree class..." />
     <MESSAGE value="add variable n of type int..." />
@@ -424,7 +448,11 @@
     <MESSAGE value="add object priorityQueue of MyPriorityQueue class....." />
     <MESSAGE value="add variable node of int type..." />
     <MESSAGE value="problem 3 completed...final commit..." />
-    <option name="LAST_COMMIT_MESSAGE" value="problem 3 completed...final commit..." />
+    <MESSAGE value="add class Node in problem 4...." />
+    <MESSAGE value="initial commit..." />
+    <MESSAGE value="add variables data of type int,next of type Node..." />
+    <MESSAGE value="add getter and setter method for varibales data and next..." />
+    <option name="LAST_COMMIT_MESSAGE" value="add getter and setter method for varibales data and next..." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -434,10 +462,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585381222442" />
-    <state x="326" y="13" key="CommitChangelistDialog2" timestamp="1585381214165">
+    <state x="326" y="13" key="CommitChangelistDialog2" timestamp="1585381265430">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="326" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585381214165" />
+    <state x="326" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585381265430" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585374958060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
