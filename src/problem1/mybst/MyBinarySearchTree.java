@@ -91,5 +91,10 @@ public class MyBinarySearchTree {
     }
 
     public void postOrderTraversal(TreeNode node) {
+        if (node == null)
+            return;
+        postOrderTraversal(node.getLeftNode());
+        postOrderTraversal(node.getRightNode());
+        System.out.println(node);
     }
 }
