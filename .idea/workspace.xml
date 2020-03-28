@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="052e1789-afd4-48bd-a7b9-8e01eadf37ef" name="Default Changelist" comment="" />
+    <list default="true" id="052e1789-afd4-48bd-a7b9-8e01eadf37ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem2/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem2/main/MyMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585368349970</updated>
-      <workItem from="1585368354112" duration="5145000" />
+      <workItem from="1585368354112" duration="5390000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit..">
       <created>1585368638531</created>
@@ -230,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585374949414</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="add object bst of MyBinarySearchTree class...">
+      <created>1585375045982</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1585375045982</updated>
+    </task>
+    <task id="LOCAL-00027" summary="add variable n of type int...">
+      <created>1585375096966</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1585375096966</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,8 +265,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add athree variables data of integer type,leftnode and rightnode of type tree node..." />
-    <MESSAGE value="add getter method for data varibable..." />
     <MESSAGE value="add setter method for data varibable..." />
     <MESSAGE value="add setter and getter method for leftnode and rightnode variable..." />
     <MESSAGE value="add toString method..." />
@@ -273,7 +288,9 @@
     <MESSAGE value="initial commit..." />
     <MESSAGE value="add main method.." />
     <MESSAGE value="add object scan of Scanner class..." />
-    <option name="LAST_COMMIT_MESSAGE" value="add object scan of Scanner class..." />
+    <MESSAGE value="add object bst of MyBinarySearchTree class..." />
+    <MESSAGE value="add variable n of type int..." />
+    <option name="LAST_COMMIT_MESSAGE" value="add variable n of type int..." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -283,10 +300,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585369799768" />
-    <state x="326" y="13" key="CommitChangelistDialog2" timestamp="1585375044766">
+    <state x="326" y="13" key="CommitChangelistDialog2" timestamp="1585375095852">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="326" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585375044766" />
+    <state x="326" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585375095852" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585374958060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

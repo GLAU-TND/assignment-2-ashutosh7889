@@ -7,6 +7,7 @@
 package problem2.main;
 
 import problem1.mybst.MyBinarySearchTree;
+import problem1.node.TreeNode;
 
 import java.util.Scanner;
 
@@ -18,5 +19,18 @@ public class MyMain {
         MyBinarySearchTree bst = new MyBinarySearchTree();
         System.out.println("Enter number of nodes");
         int n = scan.nextInt();
+        while (n-- > 0) {
+            System.out.println("Enter data");/*-->*/
+            int val = scan.nextInt();
+            TreeNode node = new TreeNode();
+            node.setData(val);
+            bst.insert(node);
+        }
+
+        System.out.println("----Pre order traversal--out--");
+        bst.showTreeData(bst.getRoot());
+        System.out.println("----Post order traversal----");
+        bst.postOrderTraversal(bst.getRoot());
+        System.out.println("First statement is valid but Second is not.");
     }
 }
