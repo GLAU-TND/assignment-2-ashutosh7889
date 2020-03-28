@@ -20,6 +20,16 @@ public class MyPriorityQueue {
     }
 
     public void enQueue(Node newNode) {
-
+        Node temp = getFront();
+        if (getFront() == null || getFront().getStudent().getRollNumber() > newNode.getStudent().getRollNumber()) {
+            setFront(newNode);
+            getFront().setNextNode(temp);
+        } else {
+            while (temp.getNextNode() != null && temp.getNextNode().getStudent().getRollNumber() <= newNode.getStudent().getRollNumber()) {
+                temp = temp.getNextNode();
+            }
+            newNode.setNextNode(temp.getNextNode());
+            temp.setNextNode(newNode);
+        }
     }
 }
