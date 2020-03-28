@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="052e1789-afd4-48bd-a7b9-8e01eadf37ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem1/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/main/MyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585368349970</updated>
-      <workItem from="1585368354112" duration="3865000" />
+      <workItem from="1585368354112" duration="4107000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit..">
       <created>1585368638531</created>
@@ -164,7 +164,28 @@
       <option name="project" value="LOCAL" />
       <updated>1585373038714</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add main method....">
+      <created>1585373205026</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1585373205026</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add object of Scanner class i.e. scan....">
+      <created>1585373265769</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1585373265769</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add object of MyBinarySearchTree class i.e. bst....">
+      <created>1585373358178</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1585373358178</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +221,10 @@
     <MESSAGE value="add method addElementToList...." />
     <MESSAGE value="add method getPreOrderList...." />
     <MESSAGE value="add method getPostOrderTraversal...." />
-    <option name="LAST_COMMIT_MESSAGE" value="add method getPostOrderTraversal...." />
+    <MESSAGE value="add main method...." />
+    <MESSAGE value="add object of Scanner class i.e. scan...." />
+    <MESSAGE value="add object of MyBinarySearchTree class i.e. bst...." />
+    <option name="LAST_COMMIT_MESSAGE" value="add object of MyBinarySearchTree class i.e. bst...." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -210,13 +234,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585369799768" />
-    <state x="326" y="13" key="CommitChangelistDialog2" timestamp="1585373263937">
+    <state x="326" y="13" key="CommitChangelistDialog2" timestamp="1585373356220">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="326" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585373263937" />
+    <state x="326" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585373356220" />
     <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585368393528">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585368393528" />
+    <state x="570" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585373326519">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1585373326519" />
   </component>
 </project>
