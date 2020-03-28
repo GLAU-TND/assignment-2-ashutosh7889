@@ -82,11 +82,14 @@ public class MyBinarySearchTree {
             return;
         arrayList.add(node.getData());
         addElementToList(node.getLeftNode());
-        addElementToList(node.getRightNode())
+        addElementToList(node.getRightNode());
     }
 
     public ArrayList<Integer> getPreOrderList() {
         addElementToList(getRoot());
         return arrayList;
+    }
+
+    public void postOrderTraversal(TreeNode node) {
     }
 }
