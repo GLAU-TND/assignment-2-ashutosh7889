@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="052e1789-afd4-48bd-a7b9-8e01eadf37ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" afterDir="false" />
-    </list>
+    <list default="true" id="052e1789-afd4-48bd-a7b9-8e01eadf37ef" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,35 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585368349970</updated>
-      <workItem from="1585368354112" duration="11483000" />
-    </task>
-    <task id="LOCAL-00005" summary="add setter and getter method for leftnode and rightnode variable...">
-      <created>1585368900355</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1585368900355</updated>
-    </task>
-    <task id="LOCAL-00006" summary="add toString method...">
-      <created>1585368960209</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1585368960209</updated>
-    </task>
-    <task id="LOCAL-00007" summary="add a variable root of type treenode as private...">
-      <created>1585369139346</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1585369139346</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add a member arrayList of type ArrayList...">
-      <created>1585369711750</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1585369711750</updated>
+      <workItem from="1585368354112" duration="11724000" />
     </task>
     <task id="LOCAL-00009" summary="add a constructor of class MyBinarySearchTree....">
       <created>1585369774281</created>
@@ -409,7 +378,35 @@
       <option name="project" value="LOCAL" />
       <updated>1585381701405</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="complete MyQueue...">
+      <created>1585383040894</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1585383040895</updated>
+    </task>
+    <task id="LOCAL-00055" summary="add main method...">
+      <created>1585383088923</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1585383088923</updated>
+    </task>
+    <task id="LOCAL-00056" summary="add object scan of class Scanner.....">
+      <created>1585383165417</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1585383165417</updated>
+    </task>
+    <task id="LOCAL-00057" summary="add object bst of class MyBinarySearchTree...">
+      <created>1585383260186</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1585383260186</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,9 +424,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="initial commit.." />
-    <MESSAGE value="add variable student of type Student and node of type Node..." />
-    <MESSAGE value="add getter and setter method for variable student and node...." />
     <MESSAGE value="add toString method" />
     <MESSAGE value="add variable front of type Node;" />
     <MESSAGE value="add getter and setter method of variable front....." />
@@ -439,7 +433,6 @@
     <MESSAGE value="add toString method..." />
     <MESSAGE value="updated enQueue method ...." />
     <MESSAGE value="add deQueue method ...." />
-    <MESSAGE value="add main method..." />
     <MESSAGE value="add object scan of Scanner class....." />
     <MESSAGE value="add object priorityQueue of MyPriorityQueue class....." />
     <MESSAGE value="add variable node of int type..." />
@@ -452,7 +445,11 @@
     <MESSAGE value="add getter and setter method for variables front and rear..." />
     <MESSAGE value="add method enQueue..." />
     <MESSAGE value="add method deQueue......" />
-    <option name="LAST_COMMIT_MESSAGE" value="add method deQueue......" />
+    <MESSAGE value="complete MyQueue..." />
+    <MESSAGE value="add main method..." />
+    <MESSAGE value="add object scan of class Scanner....." />
+    <MESSAGE value="add object bst of class MyBinarySearchTree..." />
+    <option name="LAST_COMMIT_MESSAGE" value="add object bst of class MyBinarySearchTree..." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -462,10 +459,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585381407990" />
-    <state x="326" y="13" key="CommitChangelistDialog2" timestamp="1585383164304">
+    <state x="326" y="13" key="CommitChangelistDialog2" timestamp="1585383259124">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="326" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585383164304" />
+    <state x="326" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585383259124" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585374958060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
