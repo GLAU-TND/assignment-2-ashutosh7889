@@ -28,4 +28,8 @@ public class MyQueue {
     public void setRear(Node rear) {
         this.rear = rear;
     }
+
+    public void enQueue(Node newNode) {
+
+    }
 }
