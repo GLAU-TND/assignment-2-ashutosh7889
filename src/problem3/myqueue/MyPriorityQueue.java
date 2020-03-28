@@ -32,4 +32,8 @@ public class MyPriorityQueue {
             temp.setNextNode(newNode);
         }
     }
+
+    public Node deQueue() {
+    }
+
 }
