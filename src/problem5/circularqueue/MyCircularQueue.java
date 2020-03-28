@@ -37,4 +37,7 @@ public class MyCircularQueue {
 
     public Node deQueue() {
     }
+
+    public void removeZeroBacklogRecords() {
+    }
 }
