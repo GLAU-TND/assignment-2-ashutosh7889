@@ -6,11 +6,14 @@
  */
 package problem5.main;
 
+import problem5.circularqueue.MyCircularQueue;
+
 import java.util.Scanner;
 
 //executable class
 public class MyMain {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
+        MyCircularQueue circularQueue = new MyCircularQueue();
     }
 }
