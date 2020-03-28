@@ -30,6 +30,16 @@ public class MyQueue {
     }
 
     public void enQueue(Node newNode) {
+        if (front == null && rear == null) {
+            setFront(newNode);
+            setRear(newNode);
+        } else {
+            getRear().setNext(newNode);
+            setRear(getRear().getNext());
+        }
+    }
+
+    public Node deQueue() {
 
     }
 }
