@@ -16,5 +16,7 @@ public class MyMain {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         MyBinarySearchTree bst = new MyBinarySearchTree();
+        System.out.println("Enter number of nodes");
+        int n = scan.nextInt();
     }
 }
