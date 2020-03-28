@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="052e1789-afd4-48bd-a7b9-8e01eadf37ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem4/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem4/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/node/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/node/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,14 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585368349970</updated>
-      <workItem from="1585368354112" duration="12918000" />
-    </task>
-    <task id="LOCAL-00012" summary="add variable parent and current of type TreeNode inside the insert method....">
-      <created>1585370189860</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1585370189860</updated>
+      <workItem from="1585368354112" duration="13573000" />
     </task>
     <task id="LOCAL-00013" summary="add variable isleft of type boolean and intialise with true....inside the insert method...">
       <created>1585370280422</created>
@@ -409,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585384185094</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="problem 4 complete....final commit...">
+      <created>1585384782334</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1585384782335</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,7 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add method enQueue...." />
     <MESSAGE value="add variables name of type String,rollNumber of type int,backLogCounter of type int..." />
     <MESSAGE value="add getter and setter method for variables name,rollNumber.backLogCounter..." />
     <MESSAGE value="add toString method..." />
@@ -452,7 +451,8 @@
     <MESSAGE value="add object queue of class MyQueue..." />
     <MESSAGE value="add variable numberOfNodes of type int...." />
     <MESSAGE value="add an arraylist....." />
-    <option name="LAST_COMMIT_MESSAGE" value="add an arraylist....." />
+    <MESSAGE value="problem 4 complete....final commit..." />
+    <option name="LAST_COMMIT_MESSAGE" value="problem 4 complete....final commit..." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -462,10 +462,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585381407990" />
-    <state x="326" y="13" key="CommitChangelistDialog2" timestamp="1585384183798">
+    <state x="326" y="13" key="CommitChangelistDialog2" timestamp="1585384781145">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="326" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585384183798" />
+    <state x="326" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585384781145" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585374958060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
