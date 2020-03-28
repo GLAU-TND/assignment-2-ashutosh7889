@@ -33,5 +33,23 @@ public class MyBinarySearchTree {
             setRoot(newNode);
             return;
         }
+        TreeNode parent = null;
+        TreeNode current = getRoot();
+        boolean isLeft = true;
+
+        while (current != null) {
+            parent = current;
+            if (newNode.getData() > current.getData()) {
+                current = current.getRightNode();
+                isLeft = false;
+            } else {
+                current = current.getLeftNode();
+                isLeft = true;
+            }
+        }
+        if (isLeft)
+            parent.setLeftNode(newNode);
+        else
+            parent.setRightNode(newNode);
     }
 }
