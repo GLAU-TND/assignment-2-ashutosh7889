@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="052e1789-afd4-48bd-a7b9-8e01eadf37ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/main/MyMain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Zk1bbfob5u8HELsMr38xZWKRpb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/screenshots" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem1.main.MyMain" />
+      <module name="assignment-2-ashutosh7889" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem1.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="052e1789-afd4-48bd-a7b9-8e01eadf37ef" name="Default Changelist" comment="" />
+      <created>1585368349970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585368349970</updated>
+      <workItem from="1585368354112" duration="17283000" />
+    </task>
+    <task id="LOCAL-00026" summary="add object bst of MyBinarySearchTree class...">
+      <created>1585375045982</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1585375045982</updated>
+    </task>
+    <task id="LOCAL-00027" summary="add variable n of type int...">
+      <created>1585375096966</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1585375096966</updated>
+    </task>
+    <task id="LOCAL-00028" summary="problem 2 completed...fnal commit">
+      <created>1585375315117</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1585375315117</updated>
+    </task>
+    <task id="LOCAL-00029" summary="initial commit..">
+      <created>1585377620389</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1585377620389</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add variable student of type Student and node of type Node...">
+      <created>1585378179677</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1585378179677</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add getter and setter method for variable student and node....">
+      <created>1585378257020</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1585378257020</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add toString method">
+      <created>1585378286764</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1585378286764</updated>
+    </task>
+    <task id="LOCAL-00033" summary="add variable front of type Node;">
+      <created>1585378530286</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1585378530286</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add getter and setter method of variable front.....">
+      <created>1585378586276</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1585378586276</updated>
+    </task>
+    <task id="LOCAL-00035" summary="add method enQueue....">
+      <created>1585378658244</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1585378658244</updated>
+    </task>
+    <task id="LOCAL-00036" summary="add variables name of type String,rollNumber of type int,backLogCounter of type int...">
+      <created>1585379110261</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1585379110261</updated>
+    </task>
+    <task id="LOCAL-00037" summary="add getter and setter method for variables name,rollNumber.backLogCounter...">
+      <created>1585379171830</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1585379171830</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add toString method...">
+      <created>1585379264505</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1585379264505</updated>
+    </task>
+    <task id="LOCAL-00039" summary="updated enQueue method ....">
+      <created>1585379388036</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1585379388036</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add deQueue method ....">
+      <created>1585379566663</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1585379566663</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add main method...">
+      <created>1585379748542</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1585379748542</updated>
+    </task>
+    <task id="LOCAL-00042" summary="add object scan of Scanner class.....">
+      <created>1585379878209</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1585379878209</updated>
+    </task>
+    <task id="LOCAL-00043" summary="add object priorityQueue of MyPriorityQueue class.....">
+      <created>1585379990011</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1585379990011</updated>
+    </task>
+    <task id="LOCAL-00044" summary="add variable node of int type...">
+      <created>1585380062249</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1585380062249</updated>
+    </task>
+    <task id="LOCAL-00045" summary="problem 3 completed...final commit...">
+      <created>1585380774012</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1585380774012</updated>
+    </task>
+    <task id="LOCAL-00046" summary="add class Node in problem 4....">
+      <created>1585381115535</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1585381115535</updated>
+    </task>
+    <task id="LOCAL-00047" summary="initial commit...">
+      <created>1585381140491</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1585381140491</updated>
+    </task>
+    <task id="LOCAL-00048" summary="add variables data of type int,next of type Node...">
+      <created>1585381215318</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1585381215318</updated>
+    </task>
+    <task id="LOCAL-00049" summary="add getter and setter method for varibales data and next...">
+      <created>1585381266574</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1585381266574</updated>
+    </task>
+    <task id="LOCAL-00050" summary="add variables front and rear of type Node......">
+      <created>1585381389927</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1585381389928</updated>
+    </task>
+    <task id="LOCAL-00051" summary="add getter and setter method for variables front and rear...">
+      <created>1585381441292</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1585381441292</updated>
+    </task>
+    <task id="LOCAL-00052" summary="add method enQueue...">
+      <created>1585381535217</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1585381535217</updated>
+    </task>
+    <task id="LOCAL-00053" summary="add method deQueue......">
+      <created>1585381701405</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1585381701405</updated>
+    </task>
+    <task id="LOCAL-00054" summary="complete MyQueue...">
+      <created>1585383040894</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1585383040895</updated>
+    </task>
+    <task id="LOCAL-00055" summary="add main method...">
+      <created>1585383088923</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1585383088923</updated>
+    </task>
+    <task id="LOCAL-00056" summary="add object scan of class Scanner.....">
+      <created>1585383165417</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1585383165417</updated>
+    </task>
+    <task id="LOCAL-00057" summary="add object bst of class MyBinarySearchTree...">
+      <created>1585383260186</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1585383260186</updated>
+    </task>
+    <task id="LOCAL-00058" summary="add object queue of class MyQueue...">
+      <created>1585383308957</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1585383308957</updated>
+    </task>
+    <task id="LOCAL-00059" summary="add variable numberOfNodes of type int....">
+      <created>1585383371376</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1585383371376</updated>
+    </task>
+    <task id="LOCAL-00060" summary="add an arraylist.....">
+      <created>1585384185094</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1585384185094</updated>
+    </task>
+    <task id="LOCAL-00061" summary="problem 4 complete....final commit...">
+      <created>1585384782334</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1585384782335</updated>
+    </task>
+    <task id="LOCAL-00062" summary="add variable student of Student type and next of Node type....">
+      <created>1585385319390</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1585385319390</updated>
+    </task>
+    <task id="LOCAL-00063" summary="add getter and setter method for variables student and next.....">
+      <created>1585385373740</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1585385373740</updated>
+    </task>
+    <task id="LOCAL-00064" summary="add variables front and rear of type Node....">
+      <created>1585387646109</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1585387646109</updated>
+    </task>
+    <task id="LOCAL-00065" summary="add getter and setter method for variable rear and front....">
+      <created>1585387719800</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1585387719800</updated>
+    </task>
+    <task id="LOCAL-00066" summary="add enQueue method..">
+      <created>1585387759810</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1585387759810</updated>
+    </task>
+    <task id="LOCAL-00067" summary="add traverseQueue method">
+      <created>1585387831210</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1585387831210</updated>
+    </task>
+    <task id="LOCAL-00068" summary="add deQueue method">
+      <created>1585387868845</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1585387868846</updated>
+    </task>
+    <task id="LOCAL-00069" summary="add removeZeroBacklogRecords method">
+      <created>1585387909877</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1585387909877</updated>
+    </task>
+    <task id="LOCAL-00070" summary="complete MyCircularQueue class..">
+      <created>1585390550094</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390550094</updated>
+    </task>
+    <task id="LOCAL-00071" summary="add main method....">
+      <created>1585390605199</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390605199</updated>
+    </task>
+    <task id="LOCAL-00072" summary="add object scan of class Scanner....">
+      <created>1585390665583</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390665583</updated>
+    </task>
+    <task id="LOCAL-00073" summary="add object circularQueue of class MyCircularQueue....">
+      <created>1585390752087</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390752087</updated>
+    </task>
+    <task id="LOCAL-00074" summary="add variable numberOfRecords of type int.....">
+      <created>1585390813044</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390813044</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add variables front and rear of type Node......" />
+    <MESSAGE value="add getter and setter method for variables front and rear..." />
+    <MESSAGE value="add method enQueue..." />
+    <MESSAGE value="add method deQueue......" />
+    <MESSAGE value="complete MyQueue..." />
+    <MESSAGE value="add main method..." />
+    <MESSAGE value="add object scan of class Scanner....." />
+    <MESSAGE value="add object bst of class MyBinarySearchTree..." />
+    <MESSAGE value="add object queue of class MyQueue..." />
+    <MESSAGE value="add variable numberOfNodes of type int...." />
+    <MESSAGE value="add an arraylist....." />
+    <MESSAGE value="problem 4 complete....final commit..." />
+    <MESSAGE value="add variable student of Student type and next of Node type...." />
+    <MESSAGE value="add getter and setter method for variables student and next....." />
+    <MESSAGE value="add variables front and rear of type Node...." />
+    <MESSAGE value="add getter and setter method for variable rear and front...." />
+    <MESSAGE value="add enQueue method.." />
+    <MESSAGE value="add traverseQueue method" />
+    <MESSAGE value="add deQueue method" />
+    <MESSAGE value="add removeZeroBacklogRecords method" />
+    <MESSAGE value="complete MyCircularQueue class.." />
+    <MESSAGE value="add main method...." />
+    <MESSAGE value="add object scan of class Scanner...." />
+    <MESSAGE value="add object circularQueue of class MyCircularQueue...." />
+    <MESSAGE value="add variable numberOfRecords of type int....." />
+    <option name="LAST_COMMIT_MESSAGE" value="add variable numberOfRecords of type int....." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1585387661901">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585387661901" />
+    <state x="326" y="13" key="CommitChangelistDialog2" timestamp="1585390811826">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="326" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585390811826" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585374958060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585374958060" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1585374958060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585374958060" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1585374958059">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585374958059" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1585374958060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585374958060" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585368393528">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585368393528" />
+    <state x="570" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585373326519">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1585373326519" />
+  </component>
+</project>
